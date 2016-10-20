@@ -1,0 +1,6 @@
+1. A disk image is a copy of the contents of a storage device. like a hard drive, DVD, or CD.
+2. You make disk images with the command, dd if=/dev/zero bs 1=M count-40 >> garza_floppy.img
+3. Is the process of creating one or more regions on a hard disk.
+4. There are 4 partions in a disk.
+5. Less storage room because it is dedicated and divided.
+6. Make sure that you have a large amount of room on your storage disk. Do not dedicate too much room on the hard drive.
