@@ -1,0 +1,8 @@
+1. A PST file is a personal folder file in Microsoft Outlook. It is good for storing copies of messages, calendar events, and other items within Microsoft software such as Microsoft Exchange Client, Windows Messaging, and Microsoft Outlook.
+2. pffinfo determines information about a Personal Folder File (OST, PAB and PST). pffexport exports items stored in a Personal Folder File (OST, PAB and PST).
+3. pffinfo can be used to view personal messages and pffexport can be used to show information about the personal messages such as when the message was created, who it was sent to, and who sent it.
+4. mairix indexes and searches mail folders. grepmail searches mailboxes for main matching a regular experession. A person who does digital forensics with intent to uncover evidence that was shared via email.
+5. There are 5 directories. IPM_COMMON_VIEWS, IPM_VIEWS, Reminders, Search Root, Top of Personal Folders.
+6. The messages are kept in example.pst.export/Top of Personal Folders
+7. The message where Jean asks for the spreadsheet is Top of Personal Folders/Inbox/Message00207/Message.txt
+8. The email is very suspicious and problematic. How Jean asks to not mention it to anybody is very suspicious. What Jean did was very problematic because she put a lot of private information from many people in one document.
